@@ -1,0 +1,49 @@
+body {
+  margin: 20px;
+  padding: 0;
+  background: rgb(240, 239, 239;
+  font-family: "Arial, sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 400;
+}
+h2 {
+  margin: 0;
+  font-weight: 400;
+  /* display: inline-block; */
+}
+
+.box {
+  background: white;
+  width: 1rem;
+  padding: 3rem;
+  margin: rem auto;
+  border-radius: 0.5rem;
+}
+
+.header{
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+
+.header-right p {
+  display: inline;
+}
+
+.icon{
+  color: black;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.black {
+  background: black;
+  color: white;
+  padding: 0.5rem;
+  border-raduis: 0.3rem;
+}
+
+
+  
